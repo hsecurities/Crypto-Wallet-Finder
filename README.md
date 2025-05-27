@@ -5,7 +5,7 @@
 ![Version](https://img.shields.io/badge/version-1.0-demo-yellow.svg)
 
 **Author:** hSECURITIES
-**Website:** [https://yourwebsite.com](https://yourwebsite.com)
+**Website:** [https://hsecurities.in](https://hsecurities.in)
 
 ## ⚠️ Important Notice
 
