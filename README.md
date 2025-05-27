@@ -49,5 +49,5 @@ For the full version with complete features, please visit:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/crypto-wallet-checker-demo.git
-   cd crypto-wallet-checker-demo
+   git clone https://github.com/hsecurities/Crypto-Wallet-Finder.git
+   cd Crypto-Wallet-Finder
