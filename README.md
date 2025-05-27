@@ -17,18 +17,28 @@ For the full version with complete features, please visit:
 ## Features in Demo Version
 
 ✅ Basic wallet generation
+
 ✅ Limited cryptocurrency support (ETH only)
+
 ✅ Maximum 10 wallet checks
+
 ✅ Sample output formatting
+
 
 ## Limitations
 
 ❌ Limited to 10 wallet checks
+
 ❌ Only Ethereum support
+
 ❌ Reduced performance
+
 ❌ Artificial delays between checks
+
 ❌ No batch processing
+
 ❌ No advanced features
+
 
 ## Requirements
 
