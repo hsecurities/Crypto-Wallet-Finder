@@ -1,4 +1,4 @@
-# Cryptocurrency Wallet Checker - Demo Version
+# Cryptocurrency Wallet Finder - Demo Version
 
 ![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
