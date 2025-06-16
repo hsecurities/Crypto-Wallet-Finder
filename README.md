@@ -4,8 +4,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Version](https://img.shields.io/badge/version-1.0-demo-yellow.svg)
 
-**Author:** hSECURITIES
-**Website:** [https://hsecurities.in](https://hsecurities.in)
+**Author:** imshown
+**Website:** [https://imshown.com](https://imshown.com)
 
 ## ⚠️ Important Notice
 
