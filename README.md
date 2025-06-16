@@ -45,9 +45,60 @@ For the full version with complete features, please visit:
 - Python 3.6 or higher
 - Required libraries (install with `pip install -r requirements.txt`)
 
-## Installation
+## Installation for pro version
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/hsecurities/Crypto-Wallet-Finder.git
-   cd Crypto-Wallet-Finder
+---
+# How to Use `crypto_wallet_finder_pro.py`
+
+This guide provides step-by-step instructions for using the `crypto_wallet_finder_pro.py` script, a simplified version of a more comprehensive tool.
+
+---
+
+## Prerequisites
+
+Before running the script, ensure you have **Python 3.6 or higher** installed on your system. You can download it from the official Python website: [https://www.python.org/downloads/](https://www.python.org/downloads/)
+
+---
+
+## Install Required Libraries
+
+The script relies on the following Python libraries: `requests`, `cryptofuzz`, and `asyncio`. Install them by running the following command in your terminal or command prompt:
+
+```bash
+pip install requests cryptofuzz asyncio
+```
+---
+
+## Important Note: `pass.txt`
+
+**Do not delete the `pass.txt` file.** This file contains the words used for password cracking and is essential for the script's functionality.
+
+---
+
+## Run the Script
+
+1.  Navigate to the directory where you have extracted the `crypto_wallet_finder_pro.py` script.
+2.  Open your terminal or command prompt in that directory.
+3.  Run the script using the following command:
+
+    ```bash
+    python crypto_wallet_finder_pro.py
+    ```
+
+---
+
+## Using the Script
+
+Once launched, the script will:
+
+* Continuously generate new Ethereum and Dogecoin wallets.
+* Concurrently check the balances of these generated wallets.
+* Attempt to log into these wallets using the passwords provided in your `pass.txt` file.
+
+If a wallet login is successful, the script will display the wallet details and its corresponding password in your console output.
+
+---
+
+## Stopping the Script
+
+To stop the script at any time, simply press **Ctrl + C** in your terminal or command prompt.
